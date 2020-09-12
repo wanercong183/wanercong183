@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+我叫万二聪，来自山西省运城市，就读于淄博职业学院，是一名大二学生，预计2022年毕业。我学过Java,Python,C#,
+目前对于这些处于初期学习，但我相信毕业那年我一定会有所成。我的特点就是能吃苦，努力，不懂就问。平时比较内向，
+不喜欢说话，但在熟人面前我就会变成一个"疯子"，如果可以，欢迎来交朋友。如果你来我的家乡，我推荐你看看中国的死海——盐湖。
+我的邮箱是：1066186158@qq.com。欢迎给我发邮件。
 <!--
 **wanercong183/wanercong183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
